@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>Microsoft Licensing Updates</title>
+<link>https://YOURUSERNAME.github.io/m365-license-feed/</link>
+<description>Licensing updates and product announcements</description>
+<language>en-us</language>
+
+<item>
+<title>Microsoft 365 Copilot Pricing Update</title>
+<link>https://YOURUSERNAME.github.io/m365-license-feed/copilot-pricing</link>
+<description>
+Microsoft announced updated pricing for Microsoft 365 Copilot commercial licensing.
+</description>
+<category>Copilot</category>
+<pubDate>Wed, 20 May 2026 15:00:00 GMT</pubDate>
+<guid>copilot-pricing-001</guid>
+</item>
+
+<item>
+<title>Power Platform Premium License Changes</title>
+<link>https://YOURUSERNAME.github.io/m365-license-feed/power-platform</link>
+<description>
+New Power Platform premium request limits have been introduced.
+</description>
+<category>Power Platform</category>
+<pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+<guid>power-platform-002</guid>
+</item>
+
+<item>
+<title>Dynamics 365 AI Add-on Availability</title>
+<link>https://YOURUSERNAME.github.io/m365-license-feed/dynamics-ai</link>
+<description>
+Dynamics 365 AI add-on licenses are now available for enterprise tenants.
+</description>
+<category>Dynamics 365</category>
+<pubDate>Wed, 20 May 2026 17:00:00 GMT</pubDate>
+<guid>dynamics-ai-003</guid>
+</item>
+
+</channel>
+</rss>
