@@ -3,13 +3,13 @@
 <channel>
 
 <title>Microsoft Licensing Updates</title>
-<link>https://YOURUSERNAME.github.io/m365-license-feed/</link>
+<link>https://manohafiz12.github.io/m365-license-feed/</link>
 <description>Licensing updates and product announcements</description>
 <language>en-us</language>
 
 <item>
 <title>Microsoft 365 Copilot Pricing Update</title>
-<link>https://YOURUSERNAME.github.io/m365-license-feed/copilot-pricing</link>
+<link>https://manohafiz12.github.io/m365-license-feed/copilot-pricing</link>
 <description>
 Microsoft announced updated pricing for Microsoft 365 Copilot commercial licensing.
 </description>
@@ -20,7 +20,7 @@ Microsoft announced updated pricing for Microsoft 365 Copilot commercial licensi
 
 <item>
 <title>Power Platform Premium License Changes</title>
-<link>https://YOURUSERNAME.github.io/m365-license-feed/power-platform</link>
+<link>https://manohafiz12.github.io/m365-license-feed/power-platform</link>
 <description>
 New Power Platform premium request limits have been introduced.
 </description>
@@ -31,7 +31,7 @@ New Power Platform premium request limits have been introduced.
 
 <item>
 <title>Dynamics 365 AI Add-on Availability</title>
-<link>https://YOURUSERNAME.github.io/m365-license-feed/dynamics-ai</link>
+<link>https://manohafiz12.github.io/m365-license-feed/dynamics-ai</link>
 <description>
 Dynamics 365 AI add-on licenses are now available for enterprise tenants.
 </description>
