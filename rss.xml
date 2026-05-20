@@ -49,5 +49,29 @@ Microsoft expanded Microsoft 365 E5 compliance capabilities for enterprise custo
 <pubDate>Wed, 20 May 2026 20:00:00 GMT</pubDate>
 <guid>e5-compliance-005</guid>
 </item>
+
+<item>
+<title>Microsoft Announces Expanded Microsoft 365 Copilot Licensing and Consumption-Based Pricing for Enterprise Customers</title>
+<link>https://manohafiz12.github.io/Licesing/copilot-enterprise-licensing-update</link>
+<description>
+Microsoft today announced major updates to Microsoft 365 Copilot licensing, introducing a new consumption-based pricing model aimed at enterprise organizations, managed service providers, and CSP partners. The announcement includes expanded Copilot entitlement options, revised SKU packaging structures, enhanced compliance controls, and new governance capabilities for organizations deploying custom AI agents through Copilot Studio.
+
+Under the updated licensing model, organizations will be able to allocate AI capacity dynamically across departments and workloads instead of purchasing fixed per-user licensing only. Microsoft stated that this new flexible consumption model is intended to help enterprises better manage AI adoption costs while scaling Copilot usage across Microsoft Teams, Outlook, SharePoint, Word, Excel, and Power Platform environments.
+
+The update also introduces several new enterprise licensing SKUs designed specifically for regulated industries, including healthcare, government contractors, education, and financial services organizations. These new SKUs will include expanded Purview integration, advanced audit logging, enhanced data residency controls, and additional DLP policy enforcement capabilities for Copilot interactions.
+
+Microsoft also confirmed changes to Copilot Studio capacity allocation and entitlement management. Organizations using custom AI agents will now receive centralized visibility into AI credit consumption, agent-level governance policies, usage analytics, and tenant-wide capacity thresholds. Administrators will be able to configure workload prioritization policies and apply differentiated AI capacity limits to departments or business units.
+
+Additionally, Microsoft announced expanded compliance tooling for AI-generated content. New controls will allow security and compliance teams to apply sensitivity labels, retention policies, insider risk monitoring, and eDiscovery workflows directly to Copilot-generated outputs and agent interactions. Microsoft stated that organizations will also gain greater visibility into AI prompt activity and grounding data sources used during AI responses.
+
+The licensing update will begin rolling out to commercial enterprise tenants next quarter, with GCC, GCC High, and Education tenant availability expected in future release phases. CSP partners will receive updated packaging guidance and revised pricing documentation through Microsoft partner channels over the coming weeks.
+
+Microsoft recommends that organizations review current Copilot entitlement assignments, AI governance policies, Purview configurations, and Power Platform capacity planning strategies prior to rollout.
+</description>
+<category>Licensing</category>
+<pubDate>Wed, 20 May 2026 22:45:00 GMT</pubDate>
+<guid>copilot-enterprise-licensing-008</guid>
+</item>
+
 </channel>
 </rss>
