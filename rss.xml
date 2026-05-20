@@ -73,5 +73,30 @@ Microsoft recommends that organizations review current Copilot entitlement assig
 <guid>copilot-enterprise-licensing-008</guid>
 </item>
 
+  <item>
+<title>Microsoft Revises Power Platform and Copilot Studio Licensing for Custom AI Agent Deployments</title>
+<link>https://manohafiz12.github.io/Licesing/power-platform-copilot-studio-update</link>
+<description>
+Microsoft has announced significant changes to Power Platform and Copilot Studio licensing that will impact organizations deploying custom AI agents, automated workflows, and enterprise copilots across Microsoft 365 environments. The update introduces revised consumption limits, expanded AI request capacity models, new premium entitlement tiers, and updated governance controls for organizations building AI-powered business process solutions.
+
+According to Microsoft, the licensing changes are intended to address growing enterprise adoption of custom Copilot Studio agents and Power Automate AI workflows. Organizations using AI prompts, grounding data sources, and autonomous orchestration capabilities will now operate under updated AI consumption thresholds tied to tenant-wide capacity pools rather than isolated per-user allocations.
+
+The announcement includes the introduction of new Copilot Studio capacity SKUs that allow enterprises to purchase dedicated AI request bundles for internal business applications, customer support agents, procurement workflows, HR assistants, and knowledge management copilots. Microsoft stated that these new licensing structures will provide organizations with improved flexibility when scaling AI-driven automation across departments.
+
+As part of the update, Power Automate flows utilizing AI Builder prompts, generative orchestration, or agent-triggered actions may consume tenant AI credits differently than under the current model. Microsoft confirmed that AI actions involving document summarization, semantic search, email drafting, adaptive card generation, and intelligent routing will now be categorized under expanded premium AI request metering.
+
+Microsoft also announced new governance and compliance capabilities for Copilot Studio deployments. Administrators will gain visibility into agent-level AI consumption, prompt execution history, grounding data sources, and user interaction analytics through centralized monitoring dashboards integrated with the Power Platform admin center.
+
+The licensing revision further introduces enhanced security controls for organizations operating in regulated industries. New compliance features will support Purview DLP enforcement for AI prompts, sensitivity label inheritance for AI-generated outputs, expanded audit logging for agent interactions, and configurable restrictions for accessing protected SharePoint and Dataverse content through custom copilots.
+
+Additionally, Microsoft confirmed upcoming changes for CSP partners and managed service providers. Partners managing multiple customer tenants will receive consolidated AI capacity reporting, delegated governance controls, and revised commercial packaging options aligned to enterprise-scale Copilot deployments.
+
+The updated licensing and pricing changes are expected to roll out in phases beginning next quarter for commercial tenants, with GCC, Education, and nonprofit licensing guidance expected later this year. Microsoft recommends that organizations review existing Copilot Studio deployments, Power Automate AI usage, and tenant AI capacity planning strategies prior to implementation.
+</description>
+<category>Licensing</category>
+<pubDate>Wed, 20 May 2026 23:15:00 GMT</pubDate>
+<guid>power-platform-copilotstudio-009</guid>
+</item>
+
 </channel>
 </rss>
